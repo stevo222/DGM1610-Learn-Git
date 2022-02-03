@@ -1,9 +1,0 @@
-Apple,iPhone 13 Max,13",1TB,1999.99
-Samsung,Z-Fold,25",256GB,1399.99
-Google,Galxay Ledgeng,15",64GB,1499.99
-Apple,iPhone 12,12",1TB,1799.99
-Walmart,WalEx,14",40GB,299.99
-Cricket,BugSlayer,10"400GB,499.99
-
-
-
