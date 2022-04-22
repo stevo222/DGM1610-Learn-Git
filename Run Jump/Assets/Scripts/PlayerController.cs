@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public bool gameOver = false;
     private Animator playerAnim;
     public ParticleSystem explosionParticle;
-    public  dirtParticle;
+    public ParticleSystem dirtParticle;
     public AudioClip jumpSound;
     public AudioClip crashSound;
     private AudioSource playerAudio;
